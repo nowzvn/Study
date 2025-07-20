@@ -1,0 +1,8 @@
+jupyter
+notebook
+numpy
+pandas
+selenium
+webdriver-manager
+matplotlib
+seaborn
