@@ -6,3 +6,5 @@ selenium
 webdriver-manager
 matplotlib
 seaborn
+lxml
+html5lib
