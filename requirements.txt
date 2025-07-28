@@ -6,5 +6,10 @@ selenium
 webdriver-manager
 matplotlib
 seaborn
+plotly
 lxml
 html5lib
+scipy
+scikit-learn
+requests
+tqdm
