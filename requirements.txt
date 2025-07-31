@@ -13,3 +13,4 @@ scipy
 scikit-learn
 requests
 tqdm
+mlxtend
